@@ -9,7 +9,7 @@
 - Successful pipeline runs can be found in the Actions tab on GitHub.
 
 ## Screenshots
-![Pipeline Success](link-to-screenshot)
+![Pipeline Success](https://github.com/IYNESHDURAI/MLOPS-CICD-Pipeline/tree/main/Screenshots)
 
 ## Git Repository
 [GitHub Repository](https://github.com/IYNESHDURAI/MLOPS-CICD-Pipeline)
